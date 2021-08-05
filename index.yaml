@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  saf-consumer:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2021-08-05T04:48:56.095981641Z"
+    description: Queue with NATS Jetstream to remove all the erlangs from cloud
+    digest: 662754920c53dec3e827f35c626689dc5b537e52cfbfbc43e52eff58879587d8
+    name: saf-consumer
+    type: application
+    urls:
+    - https://github.com/1995parham/saf/releases/download/saf-consumer-1.1.0/saf-consumer-1.1.0.tgz
+    version: 1.1.0
+  saf-producer:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2021-08-05T04:48:56.189259859Z"
+    description: Queue with NATS Jetstream to remove all the erlangs from cloud
+    digest: 4ad094ed2e57306237d3a3adbd8c7ed2a1d297c8ac946577d869356dbe61ac21
+    name: saf-producer
+    type: application
+    urls:
+    - https://github.com/1995parham/saf/releases/download/saf-producer-1.1.0/saf-producer-1.1.0.tgz
+    version: 1.1.0
+generated: "2021-08-05T04:48:56.189631664Z"
